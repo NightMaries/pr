@@ -1,0 +1,10 @@
+Z:\il\pr9\bin\Debug\pr9.exe.config
+Z:\il\pr9\bin\Debug\pr9.exe
+Z:\il\pr9\bin\Debug\pr9.pdb
+Z:\il\pr9\obj\Debug\pr9.csproj.AssemblyReference.cache
+Z:\il\pr9\obj\Debug\pr9.Form1.resources
+Z:\il\pr9\obj\Debug\pr9.Properties.Resources.resources
+Z:\il\pr9\obj\Debug\pr9.csproj.GenerateResource.cache
+Z:\il\pr9\obj\Debug\pr9.csproj.CoreCompileInputs.cache
+Z:\il\pr9\obj\Debug\pr9.exe
+Z:\il\pr9\obj\Debug\pr9.pdb

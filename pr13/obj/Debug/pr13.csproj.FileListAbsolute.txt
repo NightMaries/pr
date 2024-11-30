@@ -1,0 +1,10 @@
+Z:\il\pr13\bin\Debug\pr13.exe.config
+Z:\il\pr13\bin\Debug\pr13.exe
+Z:\il\pr13\bin\Debug\pr13.pdb
+Z:\il\pr13\obj\Debug\pr13.csproj.AssemblyReference.cache
+Z:\il\pr13\obj\Debug\pr13.Form1.resources
+Z:\il\pr13\obj\Debug\pr13.Properties.Resources.resources
+Z:\il\pr13\obj\Debug\pr13.csproj.GenerateResource.cache
+Z:\il\pr13\obj\Debug\pr13.csproj.CoreCompileInputs.cache
+Z:\il\pr13\obj\Debug\pr13.exe
+Z:\il\pr13\obj\Debug\pr13.pdb

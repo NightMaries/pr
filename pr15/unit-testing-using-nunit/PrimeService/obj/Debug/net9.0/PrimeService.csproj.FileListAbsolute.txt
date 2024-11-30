@@ -1,0 +1,11 @@
+Z:\il\pr15\unit-testing-using-nunit\PrimeService\bin\Debug\net9.0\PrimeService.deps.json
+Z:\il\pr15\unit-testing-using-nunit\PrimeService\bin\Debug\net9.0\PrimeService.dll
+Z:\il\pr15\unit-testing-using-nunit\PrimeService\bin\Debug\net9.0\PrimeService.pdb
+Z:\il\pr15\unit-testing-using-nunit\PrimeService\obj\Debug\net9.0\PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+Z:\il\pr15\unit-testing-using-nunit\PrimeService\obj\Debug\net9.0\PrimeService.AssemblyInfoInputs.cache
+Z:\il\pr15\unit-testing-using-nunit\PrimeService\obj\Debug\net9.0\PrimeService.AssemblyInfo.cs
+Z:\il\pr15\unit-testing-using-nunit\PrimeService\obj\Debug\net9.0\PrimeService.csproj.CoreCompileInputs.cache
+Z:\il\pr15\unit-testing-using-nunit\PrimeService\obj\Debug\net9.0\PrimeService.dll
+Z:\il\pr15\unit-testing-using-nunit\PrimeService\obj\Debug\net9.0\refint\PrimeService.dll
+Z:\il\pr15\unit-testing-using-nunit\PrimeService\obj\Debug\net9.0\PrimeService.pdb
+Z:\il\pr15\unit-testing-using-nunit\PrimeService\obj\Debug\net9.0\ref\PrimeService.dll
